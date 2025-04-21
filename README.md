@@ -1,4 +1,7 @@
 <div align="center">
+  <!-- Animated Profile Image -->
+  <img src="./assets/profile-dark.gif" width="200" height="200" style="border-radius:50%;" alt="Developer Animation" />
+  
   <!-- Animated Header Banner with Dynamic Wave Effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=190&section=header&text=Welcome%20To%20My%20Digital%20World&desc=Creating%20Elegant%20Solutions%20with%20Code&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50&descAlign=62" width="100%"/>
   
@@ -325,18 +328,18 @@
 </h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:i228759@nu.edu.pk" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFB3" />
   </a>
-  <a href="https://www.linkedin.com/in/amnahsan/" target="_blank">
+  <a href="https://www.linkedin.com/in/amna-hassan-933521245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFB3" />
   </a>
   <a href="https://github.com/Amnahsan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFB3" />
   </a>
-  <a href="https://twitter.com/Amnahsan" target="_blank">
+  <!-- <a href="https://twitter.com/Amnahsan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FFB3" />
-  </a>
+  </a> -->
 </p>
 
 <!-- Quotes Generator -->
