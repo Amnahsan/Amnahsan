@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Animated Profile Image -->
-  <img src="./assets/profile-dark.gif" width="200" height="200" style="border-radius:50%;" alt="Developer Animation" />
-  
+  <!-- <img src="./assets/profile-dark.gif" width="200" height="200" style="border-radius:50%;" alt="Developer Animation" />
+   -->
   <!-- Animated Header Banner with Dynamic Wave Effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=190&section=header&text=Welcome%20To%20My%20Digital%20World&desc=Creating%20Elegant%20Solutions%20with%20Code&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50&descAlign=62" width="100%"/>
   
